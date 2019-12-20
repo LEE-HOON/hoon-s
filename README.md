@@ -24,7 +24,7 @@ gildong.read('insurance.csv')
 나이와 bmi와 가격에 대한 3d plot.
 ![Alt text](C:\Users\nakyu\Desktop\3d.jpg)
 
-##데이터 학습 및 예측
+## 데이터 학습 및 예측
 linear_regress, kneighbor_regress 학습
 ![Alt text](C:\Users\nakyu\Desktop\LR_K-NR.jpg)
 
